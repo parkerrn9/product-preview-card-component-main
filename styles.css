@@ -24,6 +24,11 @@
         background-color:var(--Cream);
         font-size: 1rem;
         padding: 0 50px;
+        display: grid;
+        place-items: center;
+        height: 100vh;
+        margin-top: 2em;
+        margin-bottom: 17em;
     }
     .wrapper{
         border-radius: 9px;
@@ -31,12 +36,7 @@
         max-width: 100rem;
         background-color: var(--White);
     }
-    .wrapper {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-    }
+    
     main {
         margin: 0 7%;
         
