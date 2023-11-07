@@ -23,13 +23,12 @@
     body {
         background-color:var(--Cream);
         font-size: 1rem;
-        padding: 0 50px;
         display: grid;
         place-items: center;
         height: 100vh;
-        margin-top: 2em;
-        margin-bottom: 17em;
+        margin: 2em auto 17em;
     }
+
     .wrapper{
         border-radius: 9px;
         width: 22em;
